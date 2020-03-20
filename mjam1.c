@@ -1,7 +1,7 @@
 /* File : mjam.c */
 /* memanfaatkan primitif jam */
-#include "jam.h"
-#include "jam.c"
+#include "jam1.h"
+#include "jam1.c"
 
 int main()
 {/* KAMUS */
