@@ -2,7 +2,7 @@
 /* File : jam1.c */
 /* Body AFT Jam*/
 
-#include "jam.h"
+#include "jam1.h"
 
 /* Konstruktor Jam */
 Jam MakeJam(int H, int M, int S, int D)
